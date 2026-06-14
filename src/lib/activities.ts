@@ -41,6 +41,10 @@ export const activities: Activity[] = [
       withBasePath("/images/activities/a001-2.jpg"),
       withBasePath("/images/activities/a001-3.jpg"),
       withBasePath("/images/activities/a001-4.jpg"),
+      withBasePath("/images/activities/a001-5.jpg"),
+      withBasePath("/images/activities/a001-6.jpg"),
+      withBasePath("/images/activities/a001-7.jpg"),
+      withBasePath("/images/activities/a001-8.jpg"),
     ],
   },
   {
